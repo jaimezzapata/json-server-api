@@ -42,9 +42,9 @@ function App() {
     mostrarProductos();
   };
 
-  const buscardor = (e) => {
+  const buscarNombre = (e) => {
     setBuscar(e.target.value);
-    console.log(e.target.value);
+
   };
 
   let resulytadoBusqueda = [];
@@ -65,15 +65,15 @@ function App() {
       <h1 className="animate__animated animate__bounce animate__repeat-2">
         Listado
       </h1>
-      <section className="d-flex justify-content-center  align-items-center w-75">
+      <section className="d-flex justify-content-center align-items-center w-75">
         <input
-          onChange={buscardor}
+          onChange={buscarNombre}
           className="form-control w-25 h-25"
           type="search"
           placeholder="Buscar"
         />
         <Link className="btn btn-outline-secondary w-25 m-2" to={"/crear"}>
-          <i className="bi bi-plus-square"></i>
+          <i className="bi bi-plus-square text-success"></i>
         </Link>
       </section>
       <section className="cards">
@@ -96,7 +96,7 @@ function App() {
                 className="btn btn-outline-dark"
                 onClick={() => confirmar(producto.id)}
               >
-                <i className="bi bi-recycle"></i>
+                <i className="bi bi-recycle text-danger"></i>
               </button>
             </section>
           </section>
