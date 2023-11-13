@@ -44,7 +44,6 @@ function App() {
 
   const buscarNombre = (e) => {
     setBuscar(e.target.value);
-
   };
 
   let resulytadoBusqueda = [];
