@@ -9,8 +9,8 @@ http://localhost:3000/productos
 
 - Clonar el repositorio 'git clone'
 - Instalar las dependencias 'npm i'
-- Levantar el servidor de react 'npm-run-dev'
-- Levantar el servidor de JSON-Server 'npm-run-json'
+- Levantar el servidor de react 'npm run dev'
+- Levantar el servidor de JSON-Server 'npm run json'
 
 ## Funcionalidades
 - Crear productos
