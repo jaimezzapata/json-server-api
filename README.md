@@ -3,6 +3,7 @@ El presente proyecto es un ejercicio sencillo donde se implementa el consumo de 
 
 ## Endpoints
 - Tiene un endpoint solamente llamado productos
+http://localhost:3000/productos
 
 ## Instalacion y ejecición
 
