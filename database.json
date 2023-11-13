@@ -1,0 +1,1014 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Honor 20 Pro",
+      "valor": 581549,
+      "gama": "Media",
+      "venta": "11/12/2020",
+      "disponible": "Si",
+      "marca": "Reebok",
+      "peso": 2.24
+    },
+    {
+      "id": 2,
+      "nombre": "Xiaomi Mi 10",
+      "valor": 206628,
+      "gama": "Alta",
+      "venta": "9/13/2020",
+      "disponible": "Si",
+      "marca": "Reebok",
+      "peso": 5.23
+    },
+    {
+      "id": 3,
+      "nombre": "HTC U11",
+      "valor": 220175,
+      "gama": "Media",
+      "venta": "5/3/2020",
+      "disponible": "Si",
+      "marca": "Puma",
+      "peso": 6.71
+    },
+    {
+      "id": 4,
+      "nombre": "Redmi Note 8 Pro",
+      "valor": 518235,
+      "gama": "Media",
+      "venta": "12/5/2021",
+      "disponible": "no",
+      "marca": "Puma",
+      "peso": 0.54
+    },
+    {
+      "id": 5,
+      "nombre": "Meizu 16T",
+      "valor": 161601,
+      "gama": "Media",
+      "venta": "2/24/2020",
+      "disponible": "Si",
+      "marca": "Motorola",
+      "peso": 8.61
+    },
+    {
+      "id": 6,
+      "nombre": "Poco F1",
+      "valor": 682929,
+      "gama": "Media",
+      "venta": "1/14/2020",
+      "disponible": "no",
+      "marca": "Reebok",
+      "peso": 5.27
+    },
+    {
+      "id": 7,
+      "nombre": "Samsung Galaxy S20",
+      "valor": 157600,
+      "gama": "Alta",
+      "venta": "8/14/2020",
+      "disponible": "Si",
+      "marca": "Motorola",
+      "peso": 0.82
+    },
+    {
+      "id": 8,
+      "nombre": "iPhone 11",
+      "valor": 659086,
+      "gama": "Media",
+      "venta": "10/31/2020",
+      "disponible": "Si",
+      "marca": "Reebok",
+      "peso": 9.45
+    },
+    {
+      "id": 9,
+      "nombre": "Redmi K30 Pro",
+      "valor": 117482,
+      "gama": "Alta",
+      "venta": "6/6/2021",
+      "disponible": "Si",
+      "marca": "Addidas",
+      "peso": 3.42
+    },
+    {
+      "id": 10,
+      "nombre": "Oppo Reno4 Pro",
+      "valor": 783279,
+      "gama": "Media",
+      "venta": "3/29/2021",
+      "disponible": "no",
+      "marca": "Reebok",
+      "peso": 6.3
+    },
+    {
+      "id": 11,
+      "nombre": "Honor View 20",
+      "valor": 266330,
+      "gama": "Media",
+      "venta": "2/25/2020",
+      "disponible": "Si",
+      "marca": "Motorola",
+      "peso": 5.51
+    },
+    {
+      "id": 12,
+      "nombre": "Google Pixel 3",
+      "valor": 210062,
+      "gama": "Alta",
+      "venta": "12/11/2021",
+      "disponible": "no",
+      "marca": "Addidas",
+      "peso": 5.81
+    },
+    {
+      "id": 13,
+      "nombre": "Meizu 16Xs",
+      "valor": 163860,
+      "gama": "Baja",
+      "venta": "9/13/2020",
+      "disponible": "no",
+      "marca": "Addidas",
+      "peso": 1.8
+    },
+    {
+      "id": 14,
+      "nombre": "iPhone 8 Plus",
+      "valor": 206397,
+      "gama": "Baja",
+      "venta": "5/31/2021",
+      "disponible": "no",
+      "marca": "Nike",
+      "peso": 5.74
+    },
+    {
+      "id": 15,
+      "nombre": "Lenovo Z5 Pro",
+      "valor": 727129,
+      "gama": "Alta",
+      "venta": "9/9/2020",
+      "disponible": "no",
+      "marca": "Reebok",
+      "peso": 5.4
+    },
+    {
+      "id": 16,
+      "nombre": "Lenovo Z6 Youth",
+      "valor": 154467,
+      "gama": "Alta",
+      "venta": "2/18/2021",
+      "disponible": "Si",
+      "marca": "Nike",
+      "peso": 8.03
+    },
+    {
+      "id": 17,
+      "nombre": "Motorola Moto G8 Plus",
+      "valor": 949769,
+      "gama": "Alta",
+      "venta": "8/26/2021",
+      "disponible": "Si",
+      "marca": "Motorola",
+      "peso": 1.6
+    },
+    {
+      "id": 18,
+      "nombre": "Asus Zenfone 5",
+      "valor": 965707,
+      "gama": "Baja",
+      "venta": "11/6/2020",
+      "disponible": "Si",
+      "marca": "Apple",
+      "peso": 5.27
+    },
+    {
+      "id": 19,
+      "nombre": "Lenovo Z6",
+      "valor": 952092,
+      "gama": "Media",
+      "venta": "7/2/2020",
+      "disponible": "no",
+      "marca": "Samsung",
+      "peso": 1.87
+    },
+    {
+      "id": 20,
+      "nombre": "Samsung Galaxy S20",
+      "valor": 488685,
+      "gama": "Baja",
+      "venta": "3/23/2020",
+      "disponible": "Si",
+      "marca": "Motorola",
+      "peso": 3.48
+    },
+    {
+      "id": 21,
+      "nombre": "Google Pixel 3",
+      "valor": 560533,
+      "gama": "Media",
+      "venta": "2/1/2021",
+      "disponible": "Si",
+      "marca": "Xiaomi",
+      "peso": 3.6
+    },
+    {
+      "id": 22,
+      "nombre": "Honor 9X Pro",
+      "valor": 516439,
+      "gama": "Alta",
+      "venta": "4/4/2021",
+      "disponible": "no",
+      "marca": "Puma",
+      "peso": 8.8
+    },
+    {
+      "id": 23,
+      "nombre": "ZTE Axon 7",
+      "valor": 135903,
+      "gama": "Media",
+      "venta": "6/7/2020",
+      "disponible": "Si",
+      "marca": "Sony",
+      "peso": 2.05
+    },
+    {
+      "id": 24,
+      "nombre": "Oppo Reno",
+      "valor": 848467,
+      "gama": "Alta",
+      "venta": "2/22/2020",
+      "disponible": "Si",
+      "marca": "Addidas",
+      "peso": 9.23
+    },
+    {
+      "id": 25,
+      "nombre": "BlackBerry Key2 LE",
+      "valor": 715465,
+      "gama": "Baja",
+      "venta": "8/16/2020",
+      "disponible": "Si",
+      "marca": "Motorola",
+      "peso": 8.56
+    },
+    {
+      "id": 26,
+      "nombre": "Samsung Galaxy Note 9",
+      "valor": 301569,
+      "gama": "Baja",
+      "venta": "12/1/2021",
+      "disponible": "Si",
+      "marca": "Motorola",
+      "peso": 7.16
+    },
+    {
+      "id": 27,
+      "nombre": "HTC U12 Life",
+      "valor": 907878,
+      "gama": "Alta",
+      "venta": "11/27/2020",
+      "disponible": "no",
+      "marca": "LG",
+      "peso": 2.86
+    },
+    {
+      "id": 28,
+      "nombre": "LG G8S ThinQ",
+      "valor": 178622,
+      "gama": "Baja",
+      "venta": "12/28/2021",
+      "disponible": "Si",
+      "marca": "Sony",
+      "peso": 7.21
+    },
+    {
+      "id": 29,
+      "nombre": "Huawei P40 Pro",
+      "valor": 734938,
+      "gama": "Media",
+      "venta": "10/23/2021",
+      "disponible": "no",
+      "marca": "Motorola",
+      "peso": 3.17
+    },
+    {
+      "id": 30,
+      "nombre": "Asus ROG Phone 2",
+      "valor": 664999,
+      "gama": "Media",
+      "venta": "11/30/2021",
+      "disponible": "no",
+      "marca": "Reebok",
+      "peso": 9.95
+    },
+    {
+      "id": 31,
+      "nombre": "Poco F1",
+      "valor": 468657,
+      "gama": "Media",
+      "venta": "9/6/2020",
+      "disponible": "Si",
+      "marca": "Addidas",
+      "peso": 6.18
+    },
+    {
+      "id": 32,
+      "nombre": "ZTE Blade 10 Prime",
+      "valor": 530313,
+      "gama": "Media",
+      "venta": "8/22/2020",
+      "disponible": "Si",
+      "marca": "Samsung",
+      "peso": 7.76
+    },
+    {
+      "id": 33,
+      "nombre": "Huawei Mate 10 Pro",
+      "valor": 907674,
+      "gama": "Baja",
+      "venta": "2/14/2021",
+      "disponible": "Si",
+      "marca": "Nike",
+      "peso": 5.82
+    },
+    {
+      "id": 34,
+      "nombre": "Poco M2 Pro",
+      "valor": 273216,
+      "gama": "Baja",
+      "venta": "6/13/2021",
+      "disponible": "no",
+      "marca": "Motorola",
+      "peso": 2.32
+    },
+    {
+      "id": 35,
+      "nombre": "Samsung Galaxy Note 9",
+      "valor": 597539,
+      "gama": "Baja",
+      "venta": "3/3/2020",
+      "disponible": "Si",
+      "marca": "Puma",
+      "peso": 6.25
+    },
+    {
+      "id": 36,
+      "nombre": "BlackBerry Key2",
+      "valor": 480621,
+      "gama": "Media",
+      "venta": "12/5/2020",
+      "disponible": "no",
+      "marca": "Motorola",
+      "peso": 3.5
+    },
+    {
+      "id": 37,
+      "nombre": "HTC U11+",
+      "valor": 243060,
+      "gama": "Baja",
+      "venta": "12/27/2020",
+      "disponible": "Si",
+      "marca": "Puma",
+      "peso": 9.26
+    },
+    {
+      "id": 38,
+      "nombre": "Lenovo Z6 Youth",
+      "valor": 201536,
+      "gama": "Media",
+      "venta": "5/28/2020",
+      "disponible": "Si",
+      "marca": "Sony",
+      "peso": 4.37
+    },
+    {
+      "id": 39,
+      "nombre": "Meizu 16T",
+      "valor": 787244,
+      "gama": "Media",
+      "venta": "8/8/2020",
+      "disponible": "no",
+      "marca": "LG",
+      "peso": 4.54
+    },
+    {
+      "id": 40,
+      "nombre": "Meizu 16th",
+      "valor": 596106,
+      "gama": "Alta",
+      "venta": "6/30/2021",
+      "disponible": "no",
+      "marca": "Puma",
+      "peso": 3.15
+    },
+    {
+      "id": 41,
+      "nombre": "Samsung Galaxy Note 9",
+      "valor": 255803,
+      "gama": "Media",
+      "venta": "6/4/2021",
+      "disponible": "no",
+      "marca": "LG",
+      "peso": 8.38
+    },
+    {
+      "id": 42,
+      "nombre": "Nokia 3.1 Plus",
+      "valor": 590739,
+      "gama": "Alta",
+      "venta": "1/14/2020",
+      "disponible": "no",
+      "marca": "Xiaomi",
+      "peso": 7.31
+    },
+    {
+      "id": 43,
+      "nombre": "Lenovo K10 Note",
+      "valor": 678031,
+      "gama": "Alta",
+      "venta": "10/19/2021",
+      "disponible": "no",
+      "marca": "Sony",
+      "peso": 9.04
+    },
+    {
+      "id": 44,
+      "nombre": "HTC U12+",
+      "valor": 455004,
+      "gama": "Baja",
+      "venta": "9/3/2020",
+      "disponible": "Si",
+      "marca": "Reebok",
+      "peso": 2.65
+    },
+    {
+      "id": 45,
+      "nombre": "Lenovo K10 Note",
+      "valor": 334670,
+      "gama": "Media",
+      "venta": "6/27/2020",
+      "disponible": "no",
+      "marca": "Apple",
+      "peso": 8.05
+    },
+    {
+      "id": 46,
+      "nombre": "Motorola Moto G6 Plus",
+      "valor": 390360,
+      "gama": "Alta",
+      "venta": "5/11/2020",
+      "disponible": "Si",
+      "marca": "Xiaomi",
+      "peso": 2.37
+    },
+    {
+      "id": 47,
+      "nombre": "Samsung Galaxy A71",
+      "valor": 495462,
+      "gama": "Baja",
+      "venta": "12/2/2021",
+      "disponible": "no",
+      "marca": "Xiaomi",
+      "peso": 7.81
+    },
+    {
+      "id": 48,
+      "nombre": "Realme 7 Pro",
+      "valor": 724917,
+      "gama": "Media",
+      "venta": "7/25/2020",
+      "disponible": "Si",
+      "marca": "Addidas",
+      "peso": 0.94
+    },
+    {
+      "id": 49,
+      "nombre": "Honor 20",
+      "valor": 744615,
+      "gama": "Media",
+      "venta": "12/23/2020",
+      "disponible": "Si",
+      "marca": "Reebok",
+      "peso": 2.47
+    },
+    {
+      "id": 50,
+      "nombre": "Redmi Note 7 Pro",
+      "valor": 628017,
+      "gama": "Baja",
+      "venta": "1/19/2021",
+      "disponible": "no",
+      "marca": "Nike",
+      "peso": 4.59
+    },
+    {
+      "id": 51,
+      "nombre": "Oppo Reno3 Pro",
+      "valor": 309303,
+      "gama": "Media",
+      "venta": "5/21/2020",
+      "disponible": "Si",
+      "marca": "Apple",
+      "peso": 5.46
+    },
+    {
+      "id": 52,
+      "nombre": "Samsung Galaxy S10",
+      "valor": 438300,
+      "gama": "Baja",
+      "venta": "9/27/2020",
+      "disponible": "Si",
+      "marca": "Nike",
+      "peso": 5.12
+    },
+    {
+      "id": 53,
+      "nombre": "ZTE Axon 7",
+      "valor": 655267,
+      "gama": "Media",
+      "venta": "5/15/2020",
+      "disponible": "Si",
+      "marca": "Apple",
+      "peso": 5.94
+    },
+    {
+      "id": 54,
+      "nombre": "Motorola Moto G Power",
+      "valor": 982439,
+      "gama": "Alta",
+      "venta": "7/29/2020",
+      "disponible": "no",
+      "marca": "Reebok",
+      "peso": 9.77
+    },
+    {
+      "id": 55,
+      "nombre": "Asus Zenfone 6",
+      "valor": 478897,
+      "gama": "Media",
+      "venta": "3/24/2020",
+      "disponible": "Si",
+      "marca": "Puma",
+      "peso": 0.18
+    },
+    {
+      "id": 56,
+      "nombre": "Xiaomi Mi 8",
+      "valor": 646179,
+      "gama": "Baja",
+      "venta": "9/7/2020",
+      "disponible": "Si",
+      "marca": "Sony",
+      "peso": 5.61
+    },
+    {
+      "id": 57,
+      "nombre": "Google Pixel 4",
+      "valor": 507420,
+      "gama": "Media",
+      "venta": "3/31/2020",
+      "disponible": "Si",
+      "marca": "Addidas",
+      "peso": 9.56
+    },
+    {
+      "id": 58,
+      "nombre": "Motorola Moto G8 Plus",
+      "valor": 332297,
+      "gama": "Baja",
+      "venta": "12/2/2021",
+      "disponible": "no",
+      "marca": "Samsung",
+      "peso": 2.07
+    },
+    {
+      "id": 59,
+      "nombre": "ZTE Axon 10 Pro",
+      "valor": 860667,
+      "gama": "Alta",
+      "venta": "12/6/2021",
+      "disponible": "Si",
+      "marca": "LG",
+      "peso": 3.81
+    },
+    {
+      "id": 60,
+      "nombre": "Xiaomi Mi 8",
+      "valor": 822743,
+      "gama": "Alta",
+      "venta": "4/4/2020",
+      "disponible": "Si",
+      "marca": "Reebok",
+      "peso": 7.32
+    },
+    {
+      "id": 61,
+      "nombre": "BlackBerry Key2 LE",
+      "valor": 263594,
+      "gama": "Alta",
+      "venta": "8/17/2020",
+      "disponible": "Si",
+      "marca": "Addidas",
+      "peso": 1.83
+    },
+    {
+      "id": 62,
+      "nombre": "Samsung Galaxy S20",
+      "valor": 747197,
+      "gama": "Alta",
+      "venta": "7/27/2020",
+      "disponible": "Si",
+      "marca": "Samsung",
+      "peso": 3.16
+    },
+    {
+      "id": 63,
+      "nombre": "HTC U11+",
+      "valor": 188375,
+      "gama": "Media",
+      "venta": "3/24/2020",
+      "disponible": "no",
+      "marca": "LG",
+      "peso": 8.64
+    },
+    {
+      "id": 64,
+      "nombre": "Meizu 16s Pro",
+      "valor": 105380,
+      "gama": "Media",
+      "venta": "11/10/2021",
+      "disponible": "no",
+      "marca": "Xiaomi",
+      "peso": 0.03
+    },
+    {
+      "id": 65,
+      "nombre": "Oppo Reno2",
+      "valor": 990161,
+      "gama": "Baja",
+      "venta": "8/17/2020",
+      "disponible": "no",
+      "marca": "Xiaomi",
+      "peso": 5.38
+    },
+    {
+      "id": 66,
+      "nombre": "Honor 20 Pro",
+      "valor": 163105,
+      "gama": "Alta",
+      "venta": "12/11/2021",
+      "disponible": "Si",
+      "marca": "Reebok",
+      "peso": 5.92
+    },
+    {
+      "id": 67,
+      "nombre": "LG Q70",
+      "valor": 620343,
+      "gama": "Media",
+      "venta": "3/21/2020",
+      "disponible": "no",
+      "marca": "Nike",
+      "peso": 1.87
+    },
+    {
+      "id": 68,
+      "nombre": "Asus Zenfone 5",
+      "valor": 763740,
+      "gama": "Media",
+      "venta": "4/22/2021",
+      "disponible": "no",
+      "marca": "Samsung",
+      "peso": 3.36
+    },
+    {
+      "id": 69,
+      "nombre": "Sony Xperia XZ3",
+      "valor": 545537,
+      "gama": "Alta",
+      "venta": "5/11/2021",
+      "disponible": "Si",
+      "marca": "LG",
+      "peso": 7.54
+    },
+    {
+      "id": 70,
+      "nombre": "Samsung Galaxy Note 9",
+      "valor": 669626,
+      "gama": "Baja",
+      "venta": "5/7/2020",
+      "disponible": "Si",
+      "marca": "Apple",
+      "peso": 2.11
+    },
+    {
+      "id": 71,
+      "nombre": "Google Pixel 4",
+      "valor": 357217,
+      "gama": "Alta",
+      "venta": "6/20/2020",
+      "disponible": "no",
+      "marca": "LG",
+      "peso": 2.68
+    },
+    {
+      "id": 72,
+      "nombre": "iPhone 11 Pro",
+      "valor": 332110,
+      "gama": "Baja",
+      "venta": "8/10/2021",
+      "disponible": "Si",
+      "marca": "Reebok",
+      "peso": 9.99
+    },
+    {
+      "id": 73,
+      "nombre": "Motorola Moto G8 Plus",
+      "valor": 909921,
+      "gama": "Alta",
+      "venta": "8/9/2021",
+      "disponible": "Si",
+      "marca": "Motorola",
+      "peso": 5.77
+    },
+    {
+      "id": 74,
+      "nombre": "Asus ROG Phone 2",
+      "valor": 472278,
+      "gama": "Media",
+      "venta": "4/25/2021",
+      "disponible": "Si",
+      "marca": "Sony",
+      "peso": 2.06
+    },
+    {
+      "id": 75,
+      "nombre": "BlackBerry Motion",
+      "valor": 226538,
+      "gama": "Alta",
+      "venta": "6/10/2021",
+      "disponible": "no",
+      "marca": "Addidas",
+      "peso": 8.11
+    },
+    {
+      "id": 76,
+      "nombre": "Redmi Note 8 Pro",
+      "valor": 981207,
+      "gama": "Media",
+      "venta": "4/2/2020",
+      "disponible": "Si",
+      "marca": "Xiaomi",
+      "peso": 5.65
+    },
+    {
+      "id": 77,
+      "nombre": "Honor 20 Pro",
+      "valor": 451916,
+      "gama": "Media",
+      "venta": "4/3/2020",
+      "disponible": "Si",
+      "marca": "Motorola",
+      "peso": 7.68
+    },
+    {
+      "id": 78,
+      "nombre": "Poco M2 Pro",
+      "valor": 610796,
+      "gama": "Alta",
+      "venta": "11/8/2020",
+      "disponible": "Si",
+      "marca": "Samsung",
+      "peso": 7.58
+    },
+    {
+      "id": 79,
+      "nombre": "Xiaomi Mi Note 10",
+      "valor": 426298,
+      "gama": "Alta",
+      "venta": "5/22/2021",
+      "disponible": "no",
+      "marca": "Samsung",
+      "peso": 2.21
+    },
+    {
+      "id": 80,
+      "nombre": "HTC Desire 19+",
+      "valor": 120382,
+      "gama": "Alta",
+      "venta": "5/18/2020",
+      "disponible": "Si",
+      "marca": "Xiaomi",
+      "peso": 2.23
+    },
+    {
+      "id": 81,
+      "nombre": "Poco F1",
+      "valor": 517942,
+      "gama": "Baja",
+      "venta": "10/25/2021",
+      "disponible": "no",
+      "marca": "Xiaomi",
+      "peso": 7.21
+    },
+    {
+      "id": 82,
+      "nombre": "HTC U12 Life",
+      "valor": 555825,
+      "gama": "Media",
+      "venta": "11/15/2020",
+      "disponible": "Si",
+      "marca": "Reebok",
+      "peso": 7.16
+    },
+    {
+      "id": 83,
+      "nombre": "Realme X",
+      "valor": 731929,
+      "gama": "Baja",
+      "venta": "10/2/2021",
+      "disponible": "Si",
+      "marca": "Puma",
+      "peso": 4.9
+    },
+    {
+      "id": 84,
+      "nombre": "Google Pixel 3 XL",
+      "valor": 134541,
+      "gama": "Baja",
+      "venta": "7/25/2021",
+      "disponible": "no",
+      "marca": "Nike",
+      "peso": 9.55
+    },
+    {
+      "id": 85,
+      "nombre": "Oppo Reno",
+      "valor": 259280,
+      "gama": "Baja",
+      "venta": "3/7/2020",
+      "disponible": "Si",
+      "marca": "Reebok",
+      "peso": 6.43
+    },
+    {
+      "id": 86,
+      "nombre": "Nokia 6.2",
+      "valor": 860224,
+      "gama": "Media",
+      "venta": "6/18/2020",
+      "disponible": "no",
+      "marca": "Motorola",
+      "peso": 2.64
+    },
+    {
+      "id": 87,
+      "nombre": "Xiaomi Mi 8",
+      "valor": 550306,
+      "gama": "Baja",
+      "venta": "6/2/2021",
+      "disponible": "no",
+      "marca": "LG",
+      "peso": 1.85
+    },
+    {
+      "id": 88,
+      "nombre": "ZTE Axon 7",
+      "valor": 975487,
+      "gama": "Media",
+      "venta": "8/7/2021",
+      "disponible": "no",
+      "marca": "Xiaomi",
+      "peso": 3.65
+    },
+    {
+      "id": 89,
+      "nombre": "iPhone 8 Plus",
+      "valor": 248109,
+      "gama": "Alta",
+      "venta": "9/2/2021",
+      "disponible": "Si",
+      "marca": "Apple",
+      "peso": 9.45
+    },
+    {
+      "id": 90,
+      "nombre": "OnePlus 6",
+      "valor": 919619,
+      "gama": "Alta",
+      "venta": "1/8/2020",
+      "disponible": "Si",
+      "marca": "Xiaomi",
+      "peso": 1.93
+    },
+    {
+      "id": 91,
+      "nombre": "Meizu 16th",
+      "valor": 213736,
+      "gama": "Media",
+      "venta": "5/7/2020",
+      "disponible": "Si",
+      "marca": "Sony",
+      "peso": 2.69
+    },
+    {
+      "id": 92,
+      "nombre": "HTC U11+",
+      "valor": 295828,
+      "gama": "Baja",
+      "venta": "11/5/2021",
+      "disponible": "no",
+      "marca": "Samsung",
+      "peso": 8.58
+    },
+    {
+      "id": 93,
+      "nombre": "Xiaomi Mi Mix 3",
+      "valor": 665615,
+      "gama": "Media",
+      "venta": "10/20/2021",
+      "disponible": "Si",
+      "marca": "LG",
+      "peso": 8.21
+    },
+    {
+      "id": 94,
+      "nombre": "Poco F2 Pro",
+      "valor": 119768,
+      "gama": "Baja",
+      "venta": "7/12/2021",
+      "disponible": "Si",
+      "marca": "Motorola",
+      "peso": 7.2
+    },
+    {
+      "id": 95,
+      "nombre": "Motorola Moto G7 Plus",
+      "valor": 598299,
+      "gama": "Baja",
+      "venta": "8/29/2021",
+      "disponible": "no",
+      "marca": "Sony",
+      "peso": 4.91
+    },
+    {
+      "id": 96,
+      "nombre": "HTC U12 Life",
+      "valor": 711248,
+      "gama": "Media",
+      "venta": "8/24/2021",
+      "disponible": "no",
+      "marca": "Nike",
+      "peso": 1.13
+    },
+    {
+      "id": 97,
+      "nombre": "iPhone 11 Pro",
+      "valor": 420493,
+      "gama": "Media",
+      "venta": "1/5/2021",
+      "disponible": "Si",
+      "marca": "Apple",
+      "peso": 1.57
+    },
+    {
+      "id": 98,
+      "nombre": "LG G8 ThinQ",
+      "valor": 643353,
+      "gama": "Alta",
+      "venta": "2/19/2020",
+      "disponible": "Si",
+      "marca": "Reebok",
+      "peso": 4.14
+    },
+    {
+      "id": 99,
+      "nombre": "ZTE Axon 9 Pro",
+      "valor": 274860,
+      "gama": "Media",
+      "venta": "5/3/2020",
+      "disponible": "no",
+      "marca": "Xiaomi",
+      "peso": 7.85
+    },
+    {
+      "id": 100,
+      "nombre": "Asus Zenfone 5",
+      "valor": 296572,
+      "gama": "Media",
+      "venta": "11/15/2021",
+      "disponible": "no",
+      "marca": "Apple",
+      "peso": 0.23
+    },
+    {
+      "nombre": "Teclado Nuphy AIR 60",
+      "valor": "450000",
+      "gama": "Teclados",
+      "venta": "2024-01-01T01:00",
+      "disponible": "si",
+      "marca": "Nuphy",
+      "peso": "10",
+      "id": 101
+    }
+  ]
+}
